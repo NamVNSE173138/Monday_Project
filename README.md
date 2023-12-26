@@ -1,8 +1,11 @@
-# React + Vite
+## MONDAY PROJECT
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hệ thống được thiết kế nhằm cung cấp một giải pháp quản lý dự án và công việc toàn diện, 
+giúp các tổ chức và cá nhân theo dõi, quản lý, và tối ưu hóa quy trình làm việc của họ. 
+Mục tiêu chính là tăng cường hiệu suất, rõ ràng thông tin và cải thiện giao tiếp trong
+các nhóm làm việc.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How to start
+    - npm install
+    - npm run dev
