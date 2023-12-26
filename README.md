@@ -7,5 +7,14 @@ các nhóm làm việc.
 
 
 ## How to start
-    - npm install
-    - npm run dev
+    git clone https://github.com/NamVNSE173138/Monday_Project.git .
+    npm install
+    npm run dev
+
+## Used Lib
+    antd: xử lí component UI
+    axios: call api
+    react-hook-form: xử lí form
+    react-redux: xử lí dữ liệu phức tạp
+    react-router-dom: xửa lí định tuyến giữa Single Page Application
+    zod: xử lí validation
