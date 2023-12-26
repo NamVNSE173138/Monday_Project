@@ -18,3 +18,5 @@ các nhóm làm việc.
     react-redux: xử lí dữ liệu phức tạp
     react-router-dom: xửa lí định tuyến giữa Single Page Application
     zod: xử lí validation
+
+    ![](Image/Lib.png)
